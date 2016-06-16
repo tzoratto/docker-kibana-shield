@@ -1,4 +1,4 @@
-FROM kibana:4.5.0
+FROM kibana:4.5.1
 
 MAINTAINER Thomas Zoratto <thomas.zoratto@gmail.com>
 
